@@ -21,7 +21,8 @@ In our case, it is console.log("Hello World!");
 // Note: functions are used for code reusability, readability, 
 // and to divide code into small tasks for better code organize.
 
-//example
+// passing arguments in function
+
 function greet(name){
     console.log(`hello! ${name}`)
 }
