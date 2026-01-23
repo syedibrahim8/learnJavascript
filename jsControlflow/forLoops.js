@@ -3,6 +3,7 @@
 Loops are used to execute a block of code repository
 as long as a condition is true
 they help avoid writing the same code multipe times
+they are used to itterate
 
 // There are 2 types of loops
 // 1. Basic loops
