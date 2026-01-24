@@ -1,5 +1,5 @@
 /*The JavaScript switch...case statement executes 
-different blocks of code based on the value of a given expression.
+different blocks of code based on the value of a given expression and condition.
 */
 
 let trafficLight = "red"
